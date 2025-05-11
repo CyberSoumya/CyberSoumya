@@ -1,7 +1,7 @@
 <!--<p align="left"><strong><samp>「</samp></strong></p> 
 <p align="right"><strong><samp>」</samp></strong></p> -->
 
-<img align="right" src="<lottie-player id="pdp-lottie-player-3753313" loop="" background="transparent" style="width: auto; height: 500px; overflow: hidden; margin: 0px auto;"></lottie-player>" alt="Animated GIF" width="225">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN0cnFiaW05ZHgwbjlscGF6Zmk3NXNhNGV1M2d3MGZ2d2RvZ3NyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="Animated GIF" width="225">
 <p>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=EE5396&center=true&vCenter=true&random=true&width=600&height=101&lines=A+guy+who+just+focus+growing;.°˖✧+Code+should+dazzle+as+much+as+it+delivers+✧˖°.;Passionate+about+learning+and+exploring+new+technologies.;Chasing+improvement,+one+skill+at+a+time" alt="Typing Animation">
 </p><br>
